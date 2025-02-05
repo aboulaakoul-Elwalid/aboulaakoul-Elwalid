@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/aboulaakoul-elwalid/github-stats/master/generated/languages.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/aboulaakoul-elwalid/github-stats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/aboulaakoul-elwalid/github-stats/master/generated/languages.svg)
+<img src="https://raw.githubusercontent.com/aboulaakoul-Elwalid/github-stats/master/generated/overview.svg" alt="Overview" />
+<img src="https://raw.githubusercontent.com/aboulaakoul-Elwalid/github-stats/master/generated/languages.svg" alt="Languages" />
